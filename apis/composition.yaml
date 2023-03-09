@@ -46,6 +46,7 @@ spec:
           transforms:
           - type: map
             map:
+              x-small: db.t2.small
               small: db.t2.small
               medium: db.t2.medium
               large: db.t2.large
